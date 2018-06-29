@@ -1,9 +1,0 @@
-# Python:
-*.py[cod]
-*.so
-*.egg
-*.egg-info
-
-# 要忽略的文件夹
-__pycache__
-.vscode
