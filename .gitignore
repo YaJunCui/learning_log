@@ -1,7 +1,0 @@
-# 忽略文件夹
-.vscode/
-__pycache__/
-
-# 忽略文件
-# Python:
-*.py[cod]
