@@ -1,0 +1,4 @@
+# 忽略文件夹
+
+.vscode
+__pycache__
